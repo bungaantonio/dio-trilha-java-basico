@@ -1,0 +1,7 @@
+/**
+ * ContaTerminal
+ */
+public class ContaTerminal {
+
+    
+}
